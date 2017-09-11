@@ -1,0 +1,4 @@
+Acct  password        Name          Balance
+1     111111          li            2000.00
+2     222222          wang           300.00
+3     333333          cheng          200.00
